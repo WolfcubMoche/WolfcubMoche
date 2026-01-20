@@ -26,7 +26,7 @@
 
 <div align="center">
   <!-- Replace this with your actual card/avatar image when ready -->
-  <img src="https://via.placeholder.com/300x150/43B581/FFFFFF?text=Moche's+Card" width="300" />
+  <img src="./moche_card.png" width="300" />
   <br><em>My personal card will go here!(…still drawing it! 🎨)</em>
 </div>
 
@@ -39,4 +39,5 @@ small algorithms, crypto experiments, code snippets, and side projects I’m tin
 
 ✨ **Feel free to explore, comment, or open an issue!**  
 Your feedback means a lot — let’s learn together.
+
 
